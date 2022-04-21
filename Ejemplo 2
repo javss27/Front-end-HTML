@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>HTML</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="estilo.css">
+  <img src="paisaje.jpg">
+  <img src="https://www.example.com/images/dinosaur.jpg">
+</head>
+
+<body>
+<h1><big>texto mas grande</big></h1>
+<h1><strong>texto de mayor importancia</strong></h1>
+<h1><b>texto en negrita</b></h1>
+<h1><em>texto en cursiva</em></h1>
+<h1><sub>texto en subindice</sub></h1>
+<h1><sup>texto en superincide</sup></h1>
+
+<span style="font-size: 32px; margin: 21px 0;">¿Es este un titular de primer rango?</span>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK9iP5PEhSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
