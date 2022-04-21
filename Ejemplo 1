@@ -1,0 +1,45 @@
+< html >
+< cabeza >
+    < title > Etiquetas basicas de html </ title >
+</ cabeza >
+< cuerpo >
+    <!-- Etiquetas para titulos -->
+    < h1 > Título Principal </ h1 >
+    < h2 > Subtitulo </ h2 >
+
+    <!-- Etieuetad para crear un parrafo -->
+    < pag >
+        Hola Mundo < br />
+        Hola Mundo 2 < br />
+        Hola Mundo 3 < br />
+    </ p >
+
+
+    <!-- Etiqueta para una imagen -->
+
+    < img  src =" https://1.bp.blogspot.com/-xDniIobkd9A/VFugovKxSsI/AAAAAAACX0Q/99lmkH3f15w/s1600/fotos%2Bde%2Bgatitos%2C%2Bmininos%2C%2Bcats%2By%2Bkitty%2Bfelinos%2B( 24).jpg%22%3E " >
+    < img  src =" https://4.bp.blogspot.com/-C-rvYBRY1XI/TmD6a-hM1BI/AAAAAAAANv8/MXjgH-sz6b4/s1600/gatos-hermosos-tiernos_10.jpg " >
+    <!-- Etiqueta para un video -->
+    < iframe  ancho =" 560 " altura =" 315 "
+    src =" https://www.youtube.com/embed/85MppyLJHz0?autohide=0 "  
+    > </ iframe >
+    
+
+    <!-- Etiqueta para una tabla -->
+    < mesa >
+        < tr >
+            < th > Columna1 </ th >
+            < th > Columna2 </ th >
+            < th > Columna3 </ th >
+        </ tr >
+        < tr >
+            < th > gato </ th >
+            < th > Perro </ th >
+            < th > Perico </ th >
+        </ tr >
+    </ mesa >
+
+    <!-- Etiqueta para un enlace -->
+    < a  href = ”https://www.guatemala.com/” > Guatemala </ a >
+</ cuerpo >
+</ html >
